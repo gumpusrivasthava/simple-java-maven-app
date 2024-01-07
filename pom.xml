@@ -71,7 +71,7 @@
   </build>
   <distributionManagement>
     <repository>
-      <id>deployement</id>
+      <id>deployment</id>
       <name>snapshot</name>
       <url>http://65.2.9.41:8081/repository/maven-snapshots/</url>
     </repository>
