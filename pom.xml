@@ -70,12 +70,12 @@
     </plugins>
   </build>
   <distributionManagement>
-    <repository>
+  <repository>
       <id>deployment</id>
       <name>snapshot</name>
       <url>http://65.2.9.41:8081/repository/maven-snapshots/</url>
-    </repository>
-  </distributionManagement>
+  </repository>
+</distributionManagement>
   
   
 </project>
